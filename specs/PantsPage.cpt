@@ -1,0 +1,18 @@
+Created by Ahmet Berke Dural on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Swipe the page down twice
+* Swipe the page down
+* Wait for "2" seconds
+* Swipe the page down
+* Wait for "2" seconds
+
+# Click a random product and check if open or not
+* Go to a random product page
+* Wait for "2" seconds
+* Check if entered successfully to random product page
+* Wait for "2" seconds
+
+# Add cart the selected item
+* Check "com.ozdilek.ozdilekteyim:id/imgCart" for visible and click.
+

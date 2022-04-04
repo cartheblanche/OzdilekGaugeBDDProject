@@ -1,0 +1,11 @@
+Created by Ahmet Berke Dural on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Click shopping button and check the page open.
+* Check "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" for visible and click.
+* Wait for "2" seconds
+* Check if the shopping page opened.
+* Wait for "2" seconds
+
+
+

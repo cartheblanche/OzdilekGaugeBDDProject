@@ -1,0 +1,8 @@
+Created by Ahmet Berke Dural on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+
+
+# Start the program and check if the app is open or not.
+* Wait for "2" seconds
+* Check if the app opened.

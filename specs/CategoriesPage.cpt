@@ -1,0 +1,19 @@
+Created by Ahmet Berke Dural on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Click categories and check the page open or not.
+* Check "com.ozdilek.ozdilekteyim:id/nav_categories" for visible and click.
+* Wait for "2" seconds
+* Check if the categories page opened.
+
+# Click 'Kadın'
+* XPath: Find "//*[@text='Kadın']" element and click.
+* Wait for "2" seconds
+
+# Click 'Pantolon'
+* XPath: Find "//*[@text='Pantolon']" element and click.
+* Wait for "2" seconds
+
+
+
+

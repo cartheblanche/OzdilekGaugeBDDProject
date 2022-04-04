@@ -1,0 +1,15 @@
+Created by Ahmet Berke Dural on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Click Favorites
+* Check "com.ozdilek.ozdilekteyim:id/imgFav" for visible and click.
+* Wait for "2" seconds
+
+# Enter E-mail and Password
+* Enter e-mail
+* Enter password
+* Wait for "2" seconds
+
+# Click back button twice
+* Check "com.ozdilek.ozdilekteyim:id/ivBack" for visible and click.
+* Check "com.ozdilek.ozdilekteyim:id/ivBack" for visible and click.
